@@ -25,11 +25,9 @@ Rotierender Punkt auf Kreisbahn /  ESP1 - verschiedene möglichkeiten -  : https
 
 //THE HOST IP +  THE HOST IP + THE HOST IP **** OF THE Network where the IIs SERVER with  the REST SERVICE IS RUNNING  ***
 
-//var HOST_IP = "192.168.2.72";
-//var HOST_IP = "192.168.137.1";      // MSI Teathering
-//var HOST_IP = "192.168.1.69";       // NetGear 
 
-var HOST_IP = "192.168.2.102";		  // MSI
+
+var HOST_IP = "192.1xxxxx";		  // MSI
 
 var _REST = new restApiClass();
 
