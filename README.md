@@ -20,6 +20,7 @@ https://github.com/iCounterBOX/Trilateration-with-NodeMCU-8266/wiki
 
 
 above ..This was was the pre-Test-Version - NOW lets have a look to the current Version - Lets call it the 
+
 TRILAT-DoubleNode-Version!::
 
 
