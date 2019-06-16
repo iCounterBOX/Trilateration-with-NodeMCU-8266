@@ -40,5 +40,13 @@ In Report-Builder we can track the measures from the 3 Nodes:
 
 ![grafik](https://user-images.githubusercontent.com/37293282/59567404-d58af700-906d-11e9-87d7-aef40652e81c.png)
 
-As the TRILAT-ENGINE has/needs some VIP parameters we implemented on to an MQTT-Broker...this way we are able to control in realTime those Parameters
+As the TRILAT-ENGINE has/needs some VIP parameters we implemented on top an MQTT-Broker...this way we are able to control in realTime those Parameters...as a broker we currently use shiftr.IO: https://shiftr.io/
+
+
+
+![grafik](https://user-images.githubusercontent.com/37293282/59567714-75964f80-9071-11e9-85bc-56c2fb8e7909.png)
+
+
+
+
 
