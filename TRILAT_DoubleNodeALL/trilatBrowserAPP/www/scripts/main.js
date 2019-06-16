@@ -65,8 +65,8 @@ DragGroups: https://jsfiddle.net/prisoner849/sj4p7b0k/
 //THE HOST IP +  THE HOST IP + THE HOST IP **** OF THE Network where the IIs SERVER with  the REST SERVICE IS RUNNING  ***
 
 
-//var HOST_IP = "192.168.1.69";       // NetGear 
-var HOST_IP = "192.168.2.102";		  // MSI
+
+var HOST_IP = "YOUR BROWSER IP HERE";		  // MSI
 
 var _REST = new restApiClass();
 var _trilaterationMAC_JSON = {};            // ini the empty JSON object - https://coderwall.com/p/_g3x9q/how-to-check-if-javascript-object-is-empty
