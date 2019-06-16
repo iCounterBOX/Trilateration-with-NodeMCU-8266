@@ -5,29 +5,6 @@ WeMos D1 mini Pro V1 : COM PORT: Silicon Labs CP210x
 LONIN D1 mini pro v2: CH340
 
 
-LONIN D1 mini pro v2
-https://wiki.wemos.cc/_media/products:d1:sch_d1_mini_pro_v2.0.0.pdf
-https://projetsdiy.fr/nouvelle-wemos-lolin-d1-mini-pro-esp8266ex-16mb-connecteurs-ipex-i2c-batterie-lipo/
-
-ACHTUNG wegen OLED Display
-Wire.begin(D1, D2);				// F�R Wemos LoLin d1 mini Pro v2.0.0  ( der mit dem Stecker )  D1 = SDA  D2 = SCL
-Neuere Nodes haben das display auf D1, D2!!
-
-Wenn der DHCP h�ngt bzw wir NIcht auf den IIs kommen: How2_TP-LINK_SpeedPort_Icams_V01.docx
-gerade getestet-OK::
-ipconfig /release
-ipconfig /renew
-...danach ..connected to REST server..ok
-
-Damit der MSI/SQLEXPRESS im netz sichtbar wird:
-
-services/standardview...alles auf automatic setzen:
-DNS client
-Funktions Suchanbieter fdHost
-FunktionsSuchanbieter-Host ( Function DiscoveryResource / fdResPub )
-SSDP discovery
-UPnP Device Host
-
 
 15.10.18 TxSlave OK: mini-Freeze!! l�uft mit: #define SWBB_MODE 1
 15.10.18 TxSlave2:
@@ -35,8 +12,6 @@ UPnP Device Host
 
 ToDo�s:
 
-mit der googleApi die geo-location bekommen:
-https://www.youtube.com/watch?v=QhdvIJ_qlFQ
 
 20.10.18:
 
