@@ -144,14 +144,14 @@ uint16 _ESP_ERROR_COUNTER = 0;
 //char pass[] = "mypowerlaser005**";
 
 //wlanRouter @ Home
-char ssid[] = "WLAN-H8VRFB";
-char pass[] = "2183004109318938";
+char ssid[] = "WLlaaaaannnnnB";
+char pass[] = "2181234567838";
 
 //IIs SERVER
 
 const char* fingerprint = "bbdfd6880048abfea98f294f0b0084da4eb233a0";
-//char iisServer[] = "192.168.1.69";		// NTGR   MSI  192.168.1.69
-char iisServer[] = "192.168.2.102";   // MSI    name address for Google (using DNS)
+
+char iisServer[] = "192??????????02";   // MSI    name address for Google (using DNS)
 									  //int iisServerPort = 443;
 int iisServerPort = 80;
 
