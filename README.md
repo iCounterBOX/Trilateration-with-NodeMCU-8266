@@ -19,7 +19,8 @@ https://github.com/iCounterBOX/Trilateration-with-NodeMCU-8266/wiki
 
 
 
-above ..This was was the pre-Test-Version - NOW lets have a look to the current Version - Lets call it the TRILAT-DoubleNode-Version!::
+above ..This was was the pre-Test-Version - NOW lets have a look to the current Version - Lets call it the 
+TRILAT-DoubleNode-Version!::
 
 
 ![grafik](https://user-images.githubusercontent.com/37293282/59567307-50531280-906c-11e9-87a1-b91e994dd7b5.png)
@@ -28,4 +29,16 @@ above ..This was was the pre-Test-Version - NOW lets have a look to the current 
 The creation or  deployment of this is seperated in several "packages" ...we need lots of..:
 
 ![grafik](https://user-images.githubusercontent.com/37293282/59567329-afb12280-906c-11e9-9d04-d2b2ff9cf5da.png)
+
+The code(s) for this will be placed in the CODE-Section - will place this in a TRILAT-DoubleNode-Version  sub-folder.
+
+cool stuff and cool influencers :-)  one of those influencers came to me and asked .."would it be possible to detect from outside a house - if someone is IN"...mmhhh as long as this person has a smartPhone...YES...so we reactivated some older code...with Trilateration..and 3 NodeMCU..and here it is. We even can see this person located (roughly) in the house or outside an area..its under heavy development currently ...nevertheless we will place it completely on github - nice topic and stuff ...so coCreation is highly appreciated 
+
+
+In Report-Builder we can track the measures from the 3 Nodes:
+
+
+![grafik](https://user-images.githubusercontent.com/37293282/59567404-d58af700-906d-11e9-87d7-aef40652e81c.png)
+
+As the TRILAT-ENGINE has/needs some VIP parameters we implemented on to an MQTT-Broker...this way we are able to control in realTime those Parameters
 
